@@ -1,7 +1,9 @@
 title: Chris Eberle # your name (or website title) here
-logo: "/images/profile.png?raw=true" # your photo (or logo) here
+logo: "/images/profile_circ.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am pursuing a MSc. degree in Physics at LMU Munich, Germany.
+  <br><br>
+  My reserach concerns the reconstruction of time-varying gamma ray flux fields as part of the Information Field Theory group at the Max-Planck Institute for Astrophysics.
   <br><br>
   I am currently a Data Science & Machine Learning intern at ray sono with a focus on timeseries forecasting and outlier detection.
   <br><br>
