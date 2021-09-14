@@ -3,7 +3,7 @@
 ## Contact
 
 * Email: <a href="mailto:christoph.eberle@physik.uni-muenchen.de">christoph.eberle@physik.uni-muenchen.de</a>
-* LinkedIn: <a href="www.linkedin.com/in/christoph-eberle">www.linkedin.com/in/christoph-eberle</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/christoph-eberle">www.linkedin.com/in/christoph-eberle</a>
 
 ## Experience
 
