@@ -1,14 +1,16 @@
 title: <p align="center"> Chris Eberle </p> # your name (or website title) here
-logo: "/images/profile_circ.png?raw=true" # your photo (or logo) here
+logo: "/assets/img/profile_circ.png?raw=true" # your photo (or logo) here
+show_downloads: false
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
-  <a href="https://christopheberle.github.io//cv.html">CV</a> |
+  <a href="./cv.html">CV</a> |
+  <a href="./research.html">Research</a> |
   <a href="https://www.linkedin.com/in/christoph-eberle-73ba43210">LinkedIn</a> |
   <a href="https://github.com/christopheberle">GitHub</a>
   </p>
   I am pursuing a MSc. degree in Physics at LMU Munich, Germany.
   <br><br>
-  My reserach concerns the reconstruction of time-varying gamma ray flux fields as part of the Information Field Theory group at the Max-Planck Institute for Astrophysics.
+  My research concerns the reconstruction of the time-variable Gamma-ray sky as part of the Information Field Theory group at the Max-Planck Institute for Astrophysics.
   <br><br>
   I am currently a Data Science & Machine Learning intern at ray sono with a focus on timeseries forecasting and outlier detection.
   
