@@ -4,13 +4,12 @@ layout: default
 
 # Research & Publications
 
-## 2021
----
-
 ## 2020
 ---
-
 ### Bachelor Thesis: Concepts for Spatio-Temporal Characterisation of Multi-Petawatt Lasers
+
+[![Open Bachelor Thesis](https://img.shields.io/badge/PDF-Open_Bachelor_Thesis-blue?logo=adobe-acrobat-reader&logoColor=white)](assets/pdf/thesis_final.pdf)
+
 
 **Abstract**
 <div style="text-align: justify">Spatio-temporal couplings are couplings between a laser pulse’s transverse profile and the time domain. These couplings cause a sizeable reduction in attainable peak focal intensity, yet accurately measuring them is highly non-trivial and requires reconstruction of the complete spatio-temporal electric field \(E(x, y, t)\). The origin and manifestation of spatio-temporal couplings, as well as their mathematical description up to first order will be discussed, where after an overview of principle methods of wavefront reconstruction will form the basis for a presentation of the two state-of-the-art diagnostics for complete spatio-temporal reconstruction, namely TERMITES and STRIPED FISH. Lastly, we propose a setup that combines TERMITES and STRIPED FISH into a single setup, allowing for cross-validation of both setups.</div>

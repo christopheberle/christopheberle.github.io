@@ -30,7 +30,7 @@ layout: default
 
 ***Master of Science in Physics*** | 2020 - Present
 
-* Coursework: Machine Learning (TensorFlow, Keras), Monte-Carlo Methods, Signal Reconstruction in Python (Python, NIFTy), Information Field Theory
+* Coursework: Machine Learning (TensorFlow, Keras), Monte-Carlo Methods, Signal Reconstruction in Python (Python, NIFTy), Information Field Theory, Deep Learning
 
 
 ***Bachelor of Science in Physics*** | 2016 - 2020
@@ -42,7 +42,7 @@ layout: default
 ## Projects 
 ---
 
-My portfolio of past and current projects can be found [here](/index)..
+My portfolio of past and current projects can be found [here](/index).
 
 <br>
 
