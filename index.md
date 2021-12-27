@@ -17,7 +17,7 @@ layout: default
 <center><img src="assets/img/infection-graph-tracing.svg"/></center>
 
 ---
-5
+
 ### Predicting monthly Wildfires in the US
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christopheberle/us-wildfires)
 [![Open Notebook](https://img.shields.io/badge/RMarkdown-Open_Notebook-blue?logo=R)](https://github.com/christopheberle/us-wildfires/blob/main/us-wildfires.md)

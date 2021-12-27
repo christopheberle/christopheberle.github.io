@@ -14,12 +14,14 @@ layout: default
 ## Experience
 ---
 
-### ray sono, AG
+### Ray Sono AG
 
 ***Data Science & Machine Learning Intern*** | February 2021 - Present
 
-* Applied ARIMA and hierarchical Bayesian models to time series forecasting and analysis
-* Developed models for outlier detection in noisy data
+* Developed a Gaussian Process model for time series forecasting, improving mid-term to long-term prediction quality over previous models
+* Performed time-series forecasting with ARIMA and Facebook Prophet
+* Worked on outlier detection and analysis in noisy, non-stationary time-series
+* Performed auto- and cross-correlation analyses, revealing systematic sensor faults
 
 <br>
 
@@ -28,14 +30,14 @@ layout: default
 
 ### LMU Munich
 
-***Master of Science in Physics*** | 2020 - Present
+***Master of Science in Physics*** | May 2020 - Present
 
-* Coursework: Machine Learning (TensorFlow, Keras), Monte-Carlo Methods, Signal Reconstruction in Python (Python, NIFTy), Information Field Theory, Deep Learning
+* Coursework: Machine Learning, Uncertainty in AI and Machine Learning, Information (Field) Theory, Monte-Carlo Methods, Signal Reconstruction in Python
 
 
-***Bachelor of Science in Physics*** | 2016 - 2020
+***Bachelor of Science in Physics*** | Oct. 2016 - May 2020
 
-* Coursework: Machine Learning with Python (TensorFlow, Keras)
+* Coursework: Machine Learning in Python
 
 <br>
 
@@ -49,7 +51,6 @@ My portfolio of past and current projects can be found [here](/index).
 ## Skills
 ---
 
-* Programming: Python (NumPy, Scitkit-learn, TensorFlow, PyMC3), R, SQL
-* Others:
-  * Visualisation: ggplot, Matplotlib, Seaborn
-  * Statistical Tools: Excel
+* Programming: Python (NumPy, Pandas, TensorFlow, PyMC3), R, SQL
+* Languages: Native Speaker of German, Fluent in English, Conversational in Japanese
+* Others: Microsoft Office
