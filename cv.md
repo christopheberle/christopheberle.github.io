@@ -4,6 +4,8 @@ layout: default
 
 # Curriculum Vitae
 
+Download my CV here [here](/assets/pdf/CV_updated_for_github.pdf)
+
 ## Contact
 
 * Email: <a href="mailto:christoph.eberle@physik.uni-muenchen.de">christoph.eberle@physik.uni-muenchen.de</a>
