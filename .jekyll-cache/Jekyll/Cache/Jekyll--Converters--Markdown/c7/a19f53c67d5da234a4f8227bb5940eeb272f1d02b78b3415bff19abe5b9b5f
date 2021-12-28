@@ -1,0 +1,85 @@
+I"„<h1 id="curriculum-vitae">Curriculum Vitae</h1>
+
+<p>Download my CV here <a href="/assets/pdf/CV_updated_for_github.pdf">here</a></p>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li>Email: <a href="mailto:christoph.eberle@physik.uni-muenchen.de">christoph.eberle@physik.uni-muenchen.de</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/christoph-eberle">www.linkedin.com/in/christoph-eberle</a></li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="experience">Experience</h2>
+<hr />
+
+<h3 id="ray-sono-ag">Ray Sono AG</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong><em>Data Science &amp; Machine Learning Intern</em></strong></td>
+      <td>February 2021 - Present</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Developed a Gaussian Process model for time series forecasting, improving mid-term to long-term prediction quality over previous models</li>
+  <li>Performed time-series forecasting with ARIMA and Facebook Prophet</li>
+  <li>Worked on outlier detection and analysis in noisy, non-stationary time-series</li>
+  <li>Performed auto- and cross-correlation analyses, revealing systematic sensor faults</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="education">Education</h2>
+<hr />
+
+<h3 id="lmu-munich">LMU Munich</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong><em>Master of Science in Physics</em></strong></td>
+      <td>May 2020 - Present</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Coursework: Machine Learning, Uncertainty in AI and Machine Learning, Information (Field) Theory, Monte-Carlo Methods, Signal Reconstruction in Python</li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong><em>Bachelor of Science in Physics</em></strong></td>
+      <td>Oct. 2016 - May 2020</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Coursework: Machine Learning in Python</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="projects">Projects</h2>
+<hr />
+
+<p>My portfolio of past and current projects can be found <a href="/index">here</a>.</p>
+
+<p><br /></p>
+
+<h2 id="skills">Skills</h2>
+<hr />
+
+<ul>
+  <li>Programming: Python (NumPy, Pandas, TensorFlow, PyMC3), R, SQL</li>
+  <li>Languages: Native Speaker of German, Fluent in English, Conversational in Japanese</li>
+  <li>Others: Microsoft Office</li>
+</ul>
+:ET
