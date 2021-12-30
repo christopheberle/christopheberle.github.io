@@ -13,6 +13,7 @@ layout: default
 <center><img src="assets/img/BNN_pred.svg"/></center>
 <br><br>
 
+
 ## Modelling the Impact of Contact-tracing Apps in Containing the COVID-19 Virus
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christopheberle/covid-percolation)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/christopheberle/covid-percolation/blob/master/Covid-Percolation.ipynb)
